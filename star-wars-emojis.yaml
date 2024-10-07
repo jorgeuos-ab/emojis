@@ -1,96 +1,96 @@
 title: star-wars
 emojis:
-  - name: tie-fighter.png
+  - name: tie-fighter
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/tie-fighter.png
-  - name: baby_yoda_soup.png
+  - name: baby_yoda_soup
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/baby_yoda_soup.png
-  - name: baby-yoda.gif
+  - name: baby-yoda
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/baby-yoda.gif
-  - name: bb8-1.png
+  - name: bb8-1
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/bb8-1.png
-  - name: bb8.png
+  - name: bb8
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/bb8.png
-  - name: bb8flame.png
+  - name: bb8flame
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/bb8flame.png
-  - name: blacklightsaber.png
+  - name: blacklightsaber
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/blacklightsaber.png
-  - name: bluelightsaber.png
+  - name: bluelightsaber
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/bluelightsaber.png
-  - name: bobafett.png
+  - name: bobafett
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/bobafett.png
-  - name: BobaFett1.png
+  - name: BobaFett1
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/BobaFett1.png
-  - name: c3po.png
+  - name: c3po
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/c3po.png
-  - name: captain_phasma.png
+  - name: captain_phasma
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/captain_phasma.png
-  - name: chewbacca.png
+  - name: chewbacca
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/chewbacca.png
-  - name: clone_trooper.png
+  - name: clone_trooper
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/clone_trooper.png
-  - name: darkside.png
+  - name: darkside
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/darkside.png
-  - name: darth_vader1.jpeg
+  - name: darth_vader1
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/darth_vader1.jpeg
-  - name: DarthVader-Happy.png
+  - name: DarthVader-Happy
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/DarthVader-Happy.png
-  - name: DarthVader-HeartEye.png
+  - name: DarthVader-HeartEye
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/DarthVader-HeartEye.png
-  - name: DarthVader-Nervous.png
+  - name: DarthVader-Nervous
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/DarthVader-Nervous.png
-  - name: DarthVader-PowerUp.png
+  - name: DarthVader-PowerUp
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/DarthVader-PowerUp.png
-  - name: DarthVader-Sleeping.png
+  - name: DarthVader-Sleeping
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/DarthVader-Sleeping.png
-  - name: DarthVader-Surprised.png
+  - name: DarthVader-Surprised
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/DarthVader-Surprised.png
-  - name: DarthVader-Unhappy.png
+  - name: DarthVader-Unhappy
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/DarthVader-Unhappy.png
-  - name: DarthVader1.png
+  - name: DarthVader1
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/DarthVader1.png
-  - name: death-star.png
+  - name: death-star
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/death-star.png
-  - name: empire.png
+  - name: empire
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/empire.png
-  - name: evillightsaber.png
+  - name: evillightsaber
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/evillightsaber.png
-  - name: Grogu-Cute.png
+  - name: Grogu-Cute
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/Grogu-Cute.png
-  - name: Grogu-HeartEye.png
+  - name: Grogu-HeartEye
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/Grogu-HeartEye.png
-  - name: Grogu-Loved.png
+  - name: Grogu-Loved
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/Grogu-Loved.png
-  - name: Grogu-Nervous.png
+  - name: Grogu-Nervous
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/Grogu-Nervous.png
-  - name: Grogu-PowerUp.png
+  - name: Grogu-PowerUp
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/Grogu-PowerUp.png
-  - name: Grogu-Sleeping.png
+  - name: Grogu-Sleeping
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/Grogu-Sleeping.png
-  - name: Grogu-Surprised.png
+  - name: Grogu-Surprised
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/Grogu-Surprised.png
-  - name: Grogu-Unhappy.png
+  - name: Grogu-Unhappy
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/Grogu-Unhappy.png
-  - name: Grogu-Yummy.png
+  - name: Grogu-Yummy
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/Grogu-Yummy.png
-  - name: Grogu1.png
+  - name: Grogu1
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/Grogu1.png
-  - name: lightsaber.png
+  - name: lightsaber
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/lightsaber.png
-  - name: mandalorian-1.png
+  - name: mandalorian-1
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/mandalorian-1.png
-  - name: mandalorian.png
+  - name: mandalorian
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/mandalorian.png
-  - name: R2D2-HeartEye.png
+  - name: R2D2-HeartEye
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/R2D2-HeartEye.png
-  - name: R2D2-PowerUp.png
+  - name: R2D2-PowerUp
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/R2D2-PowerUp.png
-  - name: r2d2.png
+  - name: r2d2
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/r2d2.png
-  - name: R2D21.png
+  - name: R2D21
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/R2D21.png
-  - name: rebel.png
+  - name: rebel
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/rebel.png
-  - name: storm_trooper.gif
+  - name: storm_trooper
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/storm_trooper.gif
-  - name: stormtrooper.png
+  - name: stormtrooper
     src: https://raw.githubusercontent.com/jorgeuos-ab/emojis/refs/heads/main/star-wars/stormtrooper.png
